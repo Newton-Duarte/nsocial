@@ -1,0 +1,11 @@
+{
+  "name": "nsocial",
+  "version": "1.0.0",
+  "description": "A social network project for study purpose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Newton Duarte",
+  "license": "ISC"
+}
